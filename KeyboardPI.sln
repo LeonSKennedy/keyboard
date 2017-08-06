@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyboardPI", "KeyboardPI\KeyboardPI.vcxproj", "{F127E952-44CD-436B-9112-B80F0A58DCA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F127E952-44CD-436B-9112-B80F0A58DCA1}.Debug|ARM.ActiveCfg = Debug|ARM
+		{F127E952-44CD-436B-9112-B80F0A58DCA1}.Debug|ARM.Build.0 = Debug|ARM
+		{F127E952-44CD-436B-9112-B80F0A58DCA1}.Release|ARM.ActiveCfg = Release|ARM
+		{F127E952-44CD-436B-9112-B80F0A58DCA1}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
